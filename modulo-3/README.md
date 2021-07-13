@@ -1,1 +1,0 @@
-sobre o curso de git, apesar de já ter usado o git e github em alguns projetos, está sendo muito bom para relembrar alguns conceitos. num cenário que pessoa não tem nenhuma experiência sobre, acredito que este curso seria bem relevante na forma como foi criado, pois é bem objetivo e ainda dá um 'resuminho' dos códigos utilizados na aula. :)
