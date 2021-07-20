@@ -1,0 +1,1 @@
+// tsconfig.json >> (target: "es5" ) eh o que vai estar salvo, pois eh o que tem mais suporte

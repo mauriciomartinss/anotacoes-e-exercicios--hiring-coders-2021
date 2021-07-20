@@ -1,0 +1,7 @@
+assets = onde ficam as pastas com estilizacao; //aqui vão estar as imagens que transitam pelo app
+css = as pastas com as saídas da estilizacao;
+img = ficam as imagens e outras coisas do index; // aqui serão as imagens puxadas direto do index
+service = onde ficam a parte lógica (spa);
+views = onde ficam os componentes que são acessados pelas páginas;
+
+*arquivos fora do diretório src;

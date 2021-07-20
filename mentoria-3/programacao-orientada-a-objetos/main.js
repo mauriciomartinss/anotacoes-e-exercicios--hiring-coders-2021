@@ -14,14 +14,15 @@ const user = new User;
 // console.log(user);
 
 
-class Admin extends User {
+class Admin extends User { //a classe admin herda as caracteristicas de user e recebe caracteristicas próprias
     constructor(name, email) {
         super(name, email);
         this.isAdmin = true;
+        this.id;
     }
 }
 
 
 const objetoUser = new Admin("karla santos", "karla@santos.com");
 
-console.log(objetoUser.isAdmin);
+console.log(objetoUser.id);

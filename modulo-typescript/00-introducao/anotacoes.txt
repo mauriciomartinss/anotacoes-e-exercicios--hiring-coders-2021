@@ -1,0 +1,9 @@
+eh um superset do js
+
+-tipagem estática
+-interfaces
+-Enums (acho que é enumeradores)
+-Decorators
+-Generics
+
+o typescript só existe em fase de desenvolvimento, pois ele é convertido para js novamente

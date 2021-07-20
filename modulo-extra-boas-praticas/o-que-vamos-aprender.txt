@@ -1,8 +1,0 @@
--reaproveitamento de codigo
--padroes de nomenclatura para classes css
--atomic design
-
--criaremos uma spa elaborando um framework do zero
-
-
-bem-css
